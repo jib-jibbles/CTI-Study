@@ -11,10 +11,13 @@ CTI work is cyclical: establish what a stakeholder needs, collect and analyse re
 A useful rule of thumb: **start with the decision, not with a threat feed or a threat actor’s name.**
 
 
-6 Phases of the the Threat Intel Lifecycle
+Threat Intel Lifecycle
 
 - threat intel must add value to an organisation
 - threat intelligence production is a **multi-step, cyclical process — not a point-in-time task.**
 - intelligence should be actionable for everyone - whether they’re staffing a SOC, responding to security incidents, managing vulnerabilities, analyzing third-party risk, protecting your digital brand, or making high-level security decisions.
+
+
+Phases of the Intel Lifecycle
 
 - <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/861c56e7-9279-42ed-8737-bac156662dee" />
