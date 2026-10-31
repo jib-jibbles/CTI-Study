@@ -20,4 +20,33 @@ Threat Intel Lifecycle
 
 Phases of the Intel Lifecycle
 
+- Traditional intelligence focuses on six distinct phases that make up what is called the “intelligence cycle”: direction, collection, processing, analysis, dissemination, and feedback.
+
+
 - <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/861c56e7-9279-42ed-8737-bac156662dee" />
+
+
+1. Direction
+
+- Setting goals for the TI program
+- Articulating: information assets and business processes that need to be protected, the potential impacts of losing those assets or interrupting those processes, types of threat intelligence that the security organization requires to protect assets and respond to emerging threats, and priorities about what to protect
+- Organisation can then formulate questions that channel the need for info into discrete requirements. For eg. “Which threat actors on underground forums are actively soliciting data concerning our organization?” may be asked if the goal is to understand who the likely adversaries are. 
+
+
+2. Collection
+
+- gathering info to address intel requirements
+- various means including: Pulling metadata and logs from internal networks and security devices, threat feeds from vendors etc, open source news/blogs, scraping websites and forums, and infiltrating closed sources such as dark web forums.
+- may contain raw data such as malware signatures or leaked credentials from paste sites.
+
+3. Processing
+
+- transformation of info into usable format
+- eg. extract IP address from vendor report --> CSV file for importing to SIEM
+- eg. indicator enrichment --> EPP tools for auto blocking.
+
+4. Analysis
+
+- Analysis is a human process that turns processed information into intelligence that can inform decisions.
+- reports for non-technical leaders should: articulate the issues in business terms (such as direct and indirect costs and impact on reputation),and include a recommended course of action
+- Successful cyber threat intelligence teams provide continual technical reporting to other security teams with external context around IOCs, malware, threat actors, vulnerabilities, and threat trends.
