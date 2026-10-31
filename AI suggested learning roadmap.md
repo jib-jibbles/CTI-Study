@@ -97,6 +97,94 @@ Cross‑sector collaboration
 Intelligence sharing etiquette
 Community participation (ISACs, CTIS, TISN)
 
+
+
+CTA fundamentals centre on threat‑informed analysis, multi‑level CTI (strategic–operational–tactical–technical), and ASD‑aligned defensive context, while technical threat intelligence skills focus on IOCs, TTPs, CTI tooling, data processing, and adversary‑behaviour analysis.
+📘 Critical Threat Analysis (CTA) Fundamentals
+CTA is the analytical foundation behind CTI work: understanding adversaries, their behaviours, and how threats impact critical infrastructure. The fundamentals align with ASD’s threat‑informed model 
+Cyber.gov.au
+ and CTI principles 
+cyberpulse.com.au
++4
+.
+Core CTA fundamentals:
+Threat‑informed defence mindset — ASD Essentials emphasises a consistent, threat‑informed approach across enterprise IT, OT, and cloud environments 
+1
+.
+Understanding CTI layers — Strategic, operational, tactical, and technical intelligence each serve different audiences and time horizons 
+4
+.
+Adversary behaviour analysis — TTPs mapped to MITRE ATT&CK, Kill Chain, and Diamond Model frameworks 
+2
+.
+Evidence‑based reasoning — CTI requires contextualised, actionable, evidence‑based knowledge rather than raw data 
+1
+.
+Threat lifecycle comprehension — Planning, collection, processing, analysis, dissemination, feedback 
+3
+.
+Critical infrastructure threat context — CI‑ISAC operates across multiple sectors, requiring cross‑sector threat understanding (inferred from CTI fundamentals and ASD’s sector‑specific guidance 
+1
+).
+
+
+5 Sources
+🛠 Technical Threat Intelligence Skills (Desktop‑Level)
+Technical CTI is the most granular layer of intelligence, focused on indicators and artefacts used for detection and automated defence 
+cyberpulse.com.au
++3
+.
+Key technical competencies:
+Indicators of Compromise (IOCs) — IPs, domains, URLs, hashes, registry keys, malware signatures 
+2
+.
+Malware & infrastructure artefact analysis — File hashes, C2 URLs, phishing domains, packet patterns 
+2
+.
+TTP mapping — Understanding attacker behaviours and mapping them to MITRE ATT&CK 
+2
+.
+Threat actor & campaign context — Knowing motivations, targeting patterns, and sector relevance 
+2
+.
+Vulnerability exploitation context — Identifying which CVEs are actively exploited and relevant to your environment 
+1
+.
+CTI tooling literacy — STIX/TAXII, threat feeds, SIEM/EDR enrichment, and machine‑readable formats (JSON, YAML, CSV) 
+1
+.
+Data processing & normalisation — Converting raw threat data into structured formats for analysis and automation 
+2
+.
+CTI lifecycle execution — Collection, processing, analysis, dissemination, feedback 
+3
+.
+
+
+4 Sources
+🧩 Mandiant CTI Analyst Competencies (Role‑Aligned)
+Mandiant’s CTI Core Competencies Framework defines the skills expected of CTI analysts across four pillars 
+SANS Institute
++1
+:
+Problem solving — Critical thinking, structured analytic techniques, source evaluation.
+Professional effectiveness — Clear communication, BLUF reporting, stakeholder alignment.
+Technical literacy — Enterprise IT, network protocols, logs, EDR/SIEM, cloud/virtualisation.
+Cyber threat proficiency — Understanding offensive operations, adversary tradecraft, intrusion analysis.
+These competencies directly support both CTA fundamentals and technical CTI execution.
+🏛 ASD‑Aligned Requirements (Australian Context)
+ASD Essentials is a threat‑informed framework that applies across enterprise IT, OT, and cloud environments 
+Cyber.gov.au
+. For a desktop CTI role, this means:
+Threat‑informed prioritisation — Aligning intelligence to ASD’s Principles, Actions, and Domains.
+Environment‑specific threat understanding — Enterprise IT, OT, and cloud chapters each define relevant threats and defensive considerations 
+1
+.
+Integration with detection & response — CTI must support detection engineering, SOC triage, and incident response workflows 
+2
+.
+Alignment with national threat reporting — ASD Cyber Threat Reports and sector‑specific guidance inform PIRs and analysis.
+
 References:
 
 - https://www.cosive.com/blog/ism-june-2026-update-cyber-threat-intelligence-is-now-mandatory-for-compliance
