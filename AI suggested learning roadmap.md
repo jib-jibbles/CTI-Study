@@ -96,3 +96,10 @@ Stakeholder engagement
 Cross‑sector collaboration
 Intelligence sharing etiquette
 Community participation (ISACs, CTIS, TISN)
+
+References:
+
+- https://www.cosive.com/blog/ism-june-2026-update-cyber-threat-intelligence-is-now-mandatory-for-compliance
+- https://www.asd.gov.au/careers/how-apply/cyber-skills-framework
+- https://ci-isac.org.au/resources/soci-act-review-2026/
+- https://services.google.com/fh/files/misc/cti-analyst-core-competencies-framework-v1.pdf
