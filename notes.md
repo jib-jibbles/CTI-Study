@@ -73,3 +73,25 @@ A useful rule of thumb: **start with the decision, not with a threat feed or a t
 - it is critically important to understand your overall intelligence priorities and the requirements of the security teams that will be consuming the threat intelligence. 
 - their needs tell you: what types of data to collect, how to process and enrich the data to turn it into useful information, how to analyze the information and present it as actionable threat intelligence, and to whom each type of intelligence must be disseminated, how quickly it needs to be disseminated, and how fast to respond to questions.
 - regular feedback to understand requirements of each group, and to make adjustments as their requirements and priorities change.
+
+
+
+*Why is the lifecycle so important*
+
+
+- provides structure and organisation
+- ensures focused and relevant intelligence
+- transforms data into actionable insights
+- enables proactive security measures
+- improves threat detection and response
+- facilitates informed decision-making
+- supports continuous improvement
+- enhances collaboration and information sharing
+
+
+
+**References:**
+
+
+- https://www.recordedfuture.com/blog/threat-intelligence-lifecycle-phases
+- https://go.recordedfuture.com/the-intelligence-handbook-fourth-edition
